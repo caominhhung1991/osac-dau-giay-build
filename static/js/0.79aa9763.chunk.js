@@ -1,1 +1,0 @@
-(this["webpackJsonp@coreui/coreui-free-react-admin-template"]=this["webpackJsonp@coreui/coreui-free-react-admin-template"]||[]).push([[0],{483:function(e,t,r){"use strict";r.r(t);var a=r(0),c=r.n(a),i=r(95),n=Object(a.memo)((function(e){var t=e.children,r=e.title;return c.a.createElement(i.a,{title:r},t)}));t.default=n}}]);
